@@ -14,7 +14,7 @@ Run `npm install` on this project's root folder
 
 You have 2 different ways of testing:
 - [Pure CasperJS way](http://docs.casperjs.org/en/latest/testing.html) by running `casperjs test with-pure-casper.coffee`
-- CasperJS with [Mocha](http://visionmedia.github.io/mocha/) & [Chai](http://chaijs.com/) via [CasperJS Mocha plugin](https://github.com/nathanboktae/mocha-casperjs) by running `mocha-casperjs with-casper-mocha-chai.coffee`
+- CasperJS with [Mocha](http://mochajs.org/) & [Chai](http://chaijs.com/) via [CasperJS Mocha plugin](https://github.com/nathanboktae/mocha-casperjs) by running `mocha-casperjs with-casper-mocha-chai.coffee`
 
 Also for the sake of example, both CoffeeScript and vanilla JavaScript versions are provided.
 
